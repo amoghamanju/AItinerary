@@ -3,7 +3,7 @@ AItinerary is an innovative travel planning platform that leverages artificial i
 
 * Front End: React and Vite
 * Back End: AWS Lambda Functions
-* Hosted Website: http://aitinerary.net
+* Hosted Website: https://aitinerary.net
   
 # Project Structure
 The project is organized into several components:
@@ -31,7 +31,7 @@ lambda-unsplash-api: Configure the ACCESS_KEY for Unsplash API.
 # Additional Notes:
 Refer to the provided architecture document for an overview of the project.
 
-The hosted website is available at http://aitinerary.net.
+The hosted website is available at https://aitinerary.net.
 
 # Contributors
 Amogha Manjunatha Kuruvadi
